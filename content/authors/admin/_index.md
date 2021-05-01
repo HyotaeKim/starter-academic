@@ -73,4 +73,4 @@ highlight_name: false
 
 I am a graduate student in the Department of Statistics at University of California, Santa Cruz, grateful to be advised by Athanasios Kottas. My dissertation work focuses on Bayesian Nonparametric modeling and inferences for point processes, with an emphasis on application in seismology. 
 
-[ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.]
+# "{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}."
