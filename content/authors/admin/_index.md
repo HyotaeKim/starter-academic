@@ -12,7 +12,7 @@ role: Postdoctoral Associate
 organizations:
 - name: Duke University, Department of Statistical Science
 #  url: https://www.stanford.edu/
-url: https://stat.duke.edu/
+url: stat.duke.edu/
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
