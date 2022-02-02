@@ -19,10 +19,11 @@ url: stat.duke.edu/
 
 # Interests to show in About widget
 interests:
-- Bayesian Statistics
 - Bayesian Nonparametrics
 - Spatio-Temporal Modeling
 - Point Process
+- Statistical modeling of microbiome sequencing data
+- Metagenomics / Metatranscriptomics
 
 # Education to show in About widget
 education:
