@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 30%
-  icon: c
+  icon: c2
   icon_pack: custom
   name: C
 - description: 10%
