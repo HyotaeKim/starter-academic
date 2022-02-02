@@ -48,9 +48,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=RYxpvQkAAAAJ&hl=en
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.com/citations?user=RYxpvQkAAAAJ&hl=en
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -72,6 +72,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral associate in the Department of Statistical Science at Duke University, working with Professor Li Ma. Before joining Duke University, I obtained my Ph.D. in Statistical Science at University of California, Santa Cruz, and was fortunate to be advised by Athanasios Kottas. My dissertation focused on Bayesian nonparametric modeling and inferences for point processes, with an emphasis on seismological application.
+I am a postdoctoral associate in the Department of Statistical Science at Duke University, working with Professor Li Ma. I obtained my Ph.D. in Statistical Science at University of California, Santa Cruz, advised by an amazing supervisor Athanasios Kottas. My dissertation focused on Bayesian nonparametric modeling and inferences for point processes, with an emphasis on seismological application.
  
 
