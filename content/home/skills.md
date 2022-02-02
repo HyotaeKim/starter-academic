@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 30%
   icon: c
-  icon_pack: custome
+  icon_pack: custom
   name: C
 
 # Uncomment to use emoji icons.
