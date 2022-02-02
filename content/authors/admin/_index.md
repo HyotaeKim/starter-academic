@@ -6,12 +6,13 @@ title: Hyotae Kim
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student Researcher
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Santa Cruz
+- name: Duke University, Department of Statistical Science
 #  url: https://www.stanford.edu/
+url: https://stat.duke.edu/
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,11 +29,11 @@ education:
   courses:
   - course: PhD in Statistical Science
     institution: University of California, Santa Cruz
-    year: Expected 2021
-  - course: MStat 
+    year: 2021
+  - course: Master of Statistics (MStat) 
     institution: Korea University
     year: 2015
-  - course: BSc in Computer Science / BEc in Statistics
+  - course: Bachelor of Science (BSc) in Computer Science / Bachelor of Economics (BEc) in Statistics
     institution: Korea University
     year: 2011
 
