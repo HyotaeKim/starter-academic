@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 30%
-  icon: org-gc
+  icon: c
   icon_pack: custom
   name: C
 
