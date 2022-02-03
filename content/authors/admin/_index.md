@@ -10,7 +10,7 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Duke University, Department of Statistical Science
+- name: Department of Statistical Science, Duke University
 #  url: https://www.stanford.edu/
 url: stat.duke.edu/
 
