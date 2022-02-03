@@ -34,7 +34,7 @@ education:
   - course: Master of Statistics (MStat) 
     institution: Korea University
     year: 2015
-  - course: Bachelor of Science (BSc) in Computer Science / Bachelor of Economics (BEc) in Statistics
+  - course: Bachelor of Science in Computer Science / Bachelor of Economics (BEc) in Statistics
     institution: Korea University
     year: 2011
 
