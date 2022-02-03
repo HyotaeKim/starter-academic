@@ -45,7 +45,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://link.springer.com/article/10.1007/s11222-021-10064-0'
-url_code: ''
+url_code: 'code.R'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -53,7 +53,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-code: code_nhpp
+# code: code_nhpp
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
