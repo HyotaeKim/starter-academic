@@ -31,10 +31,10 @@ education:
   - course: PhD in Statistical Science
     institution: University of California, Santa Cruz
     year: 2021
-  - course: Master of Statistics (MStat) 
+  - course: Master of Statistics
     institution: Korea University
     year: 2015
-  - course: Bachelor of Science in Computer Science / Bachelor of Economics (BEc) in Statistics
+  - course: Bachelor of Science in Computer Science / Bachelor of Economics in Statistics
     institution: Korea University
     year: 2011
 
