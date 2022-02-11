@@ -45,7 +45,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://link.springer.com/article/10.1007/s11222-021-10064-0'
-# url_code: 'code.R'
+url_code: 'https://github.com/HyotaeKim/erlmixPP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
