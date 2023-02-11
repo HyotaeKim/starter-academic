@@ -74,6 +74,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral associate in the Department of Statistical Science at Duke University, working with Professor Li Ma. I obtained my Ph.D. in Statistical Science at University of California, Santa Cruz, advised by an amazing supervisor Athanasios Kottas. My dissertation focused on Bayesian nonparametric modeling and inferences for point processes, with an emphasis on seismological application.
+I am a postdoctoral associate in the Department of Statistical Science at Duke University, working with Professor Li Ma. I obtained my Ph.D. in Statistical Science at University of California, Santa Cruz, where I was very fortunate to be advised by Athanasios Kottas. My dissertation focused on Bayesian nonparametric modeling and inferences for point processes, with an emphasis on seismological application.
  
 
